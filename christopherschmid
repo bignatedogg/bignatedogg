@@ -32,7 +32,7 @@
         }
 
         #begin-button {
-            background-color: #ff5737;
+            background-color: #green;
             color: #fff;
             padding: 15px 90px;
             border: none;
